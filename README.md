@@ -17,4 +17,7 @@ This Repo Consists of Projects Related to useState and useEffect Hooks, Conditio
 3. Forms Projects  
   * [Lorem Ipsum Generator](https://projectloremgenerator.netlify.app/) - Bored with boring lorem Ipsum Generator I have build using React forms.  
   * [Color shades generator](https://projectcolorgenerator.netlify.app/) - Try out this Cool Color Generator that gives you 21 shades of any color you want.  
-  * [Todo App](https://projectaddtask.netlify.app/) - A beautiful design to do app that lets you track of your daily tasks.
+  * [Todo App](https://projectaddtask.netlify.app/) - A beautiful design to do app that lets you track of your daily tasks.  
+
+4. useReducer Project  
+  * [Cart App](https://project-cart-app.netlify.app/) - Using useReducer hook.
